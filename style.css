@@ -18,10 +18,12 @@ header {
 
 img {
     width: 40%;
+    border: 5px;
 }
 
 ul {
     border: solid 7px rgb(26, 26, 33);
+    background-color: rgb(59, 58, 76);
 }
 
 .Título {
