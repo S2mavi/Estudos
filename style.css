@@ -6,6 +6,7 @@ body {
     font-size: 5px;
     font-style: oblique;
     bottom: solid rgb(26, 26, 33);
+    font-size: 300%;
 }
 
 header {
@@ -13,18 +14,6 @@ header {
     background-color: rgb(59, 58, 76);
     border-bottom: solid rgb(26, 26, 33);
     font-size: 150%;
-}
-
-h1 {
-    font-size: 200%;
-}
-
-h2 {
-    font-size: 150%;
-}
-
-p {
-    font-size: 100%;
 }
 
 img {
