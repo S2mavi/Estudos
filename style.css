@@ -1,0 +1,36 @@
+body {
+    color: rgb(254, 214, 106);
+    background-color: rgb(80, 79, 105);
+    text-align: center;
+    margin: 5px;
+    font-size: 5px;
+    font-style: oblique;
+    bottom: rgb(26, 26, 34);
+}
+
+header {
+    padding: 5px;
+    background-color: rgb(59, 58, 76);
+    border-bottom: rgb(26, 26, 33);
+    font-size: 150%;
+}
+
+h1 {
+    font-size: 200%;
+}
+
+h2 {
+    font-size: 150%;
+}
+
+p {
+    font-size: 100%;
+}
+
+img {
+    width: 70%;
+}
+
+.Título {
+color: rgb(255, 249, 168);
+}
